@@ -1,0 +1,11 @@
+Creating DataBase
+
+CREATE DATABASE email;
+
+Creating table
+
+CREATE TABLE MESSAGES(
+Fromadd VARCHAR(50),
+Toadd VARCHAR(50),
+Subject VARCHAR(50),
+Message VARCHAR(50));

@@ -1,0 +1,3 @@
+com\mycompany\sendingemails\SendEmailController.class
+com\mycompany\Dao\MailDao.class
+com\mycompany\Model\Mail.class
